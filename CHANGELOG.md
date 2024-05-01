@@ -9,12 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Support for Spotify and Threads
+- Support for Blueksy, Spotify and Threads
 - Support for X (Twitter) ([#107](https://github.com/jpanther/lynx/pull/107))
 
 ### Changed
 
 - ⚠️ Author param block in site config moved to `params.author` to align with recent deprecations in the Hugo project
+- Upgrade to Tailwind v3.4.3 ([#138](https://github.com/jpanther/lynx/pull/138))
+- Upgrade to Typography v0.5.11 ([#137](https://github.com/jpanther/lynx/pull/137))
 
 ## [1.3.1] - 2023-09-10
 
