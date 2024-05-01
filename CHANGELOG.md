@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Support for Bandcamp, Blueksy, Spotify and Threads
+- Support for Bandcamp, Bluesky, Spotify and Threads
 - Support for X (Twitter) ([#107](https://github.com/jpanther/lynx/pull/107))
 
 ### Changed
