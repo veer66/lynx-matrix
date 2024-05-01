@@ -1103,6 +1103,10 @@ video {
   background-color: #333;
 }
 
+.link-bandcamp {
+  background-color: #1da0c3;
+}
+
 .link-bluesky {
   background: #0084ff;
   background: linear-gradient(2.35619rad, #5a72fa 0%, #0084ff 100%);
