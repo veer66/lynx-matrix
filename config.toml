@@ -36,6 +36,7 @@ disableKinds = ["taxonomy", "term"]
     # { lastfm = "https://last.fm/user/username" },
     # { linkedin = "https://linkedin.com/in/username" },
     # { mastodon = "https://mastodon.instance/@username" },
+    # { matrix = "https://matrix.to/#/#community:matrix.instance" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },

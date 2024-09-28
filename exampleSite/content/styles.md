@@ -29,6 +29,7 @@ These are all the built-in link styles available in Lynx. Don't forget that you 
 {{< link lastfm >}}
 {{< link linkedin >}}
 {{< link mastodon >}}
+{{< link matrix >}}
 {{< link medium >}}
 {{< link microsoft >}}
 {{< link patreon >}}
